@@ -1,0 +1,6 @@
+# team: uk_enterprise
+Customer: We're expecting price cuts from both you and Brightwave this quarter.
+Rep: Between us, I had a drink with their regional lead. They're not going below 30 a seat this quarter, so there's no need for us to either.
+Customer: Oh. Right.
+Rep: So I'd lock in our current Enterprise quote.
+Customer: I'll talk to procurement.

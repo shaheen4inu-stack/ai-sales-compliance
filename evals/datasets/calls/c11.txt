@@ -1,0 +1,6 @@
+# team: uk_midmarket
+Customer: We don't want to be locked in.
+Rep: You won't be. There's no minimum term, you can cancel any month you like.
+Customer: That's unusual for this market.
+Rep: We're flexible like that. And there's a 30-day free trial on Premium.
+Customer: Good to know.

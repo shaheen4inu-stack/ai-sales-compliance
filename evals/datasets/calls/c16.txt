@@ -1,0 +1,5 @@
+# team: uk_midmarket
+Customer: Can you promise we'll never go down?
+Rep: I can't promise zero downtime. Nobody honestly can. What we offer is a 99.9% uptime SLA on Enterprise.
+Customer: I appreciate the honesty.
+Rep: I'd rather set the right expectations. I'll send the SLA document.

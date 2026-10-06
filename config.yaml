@@ -1,0 +1,48 @@
+# ============================================================
+# AI Sales Compliance — configuration
+# Customise per client: provider, models, policy file, reporting, time baselines.
+# ============================================================
+
+# Default provider for the API, CLI and evals: anthropic | openai
+provider: anthropic
+
+# Set these to the models your enterprise licence covers.
+models:
+  anthropic: claude-sonnet-5-5
+  openai: gpt-5
+
+# Output token budget per call. OpenAI reasoning models count reasoning tokens against it.
+max_output_tokens:
+  anthropic: 3000
+  openai: 12000
+
+# null = provider default. Some OpenAI reasoning models reject custom temperatures.
+temperature:
+  anthropic: 0
+  openai: null
+
+# The client's sales policy: approved claims, commercial terms, competitors.
+policy:
+  path: data/policy.yaml
+
+guardrails:
+  redact_pii: true          # emails, phones, cards, IBANs, labelled account numbers and sort codes
+  max_input_chars: 40000    # per transcript
+
+audit:
+  path: logs/audit.jsonl
+  log_content: false        # keep transcripts and findings out of the audit log by default
+
+analysis:
+  max_workers: 4            # parallel model calls for a batch of calls
+  min_group_size: 5         # teams or regions with fewer calls are suppressed in reports
+  max_batch: 200            # largest batch accepted by the API in one request
+
+# Efficiency is reported in hours only. All minute figures are ASSUMPTIONS
+# until replaced with timings measured in the client's pilot.
+baseline_minutes:
+  call_qa: 30               # a QA reviewer listening to and scoring one sales call
+
+review_minutes:
+  clean_spot_check: 1       # average per clean call (sampling)
+  flagged: 10               # reviewing the flagged turns of a call and recording an outcome

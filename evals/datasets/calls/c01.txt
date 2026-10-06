@@ -1,0 +1,9 @@
+# team: uk_enterprise
+Customer: We're reviewing CRM-adjacent platforms for about 300 users. Uptime is our main worry.
+Rep: Understood. On the Enterprise plan we offer a 99.9% uptime SLA, and we're SOC 2 Type II certified.
+Customer: Where would our data live?
+Rep: You choose the region: UK, EU or US. For you I'd suggest UK.
+Customer: And support?
+Rep: 24/7 support on Premium and Enterprise. Standard gets business-hours support.
+Customer: Good. Send me a proposal for Enterprise.
+Rep: Will do. I'll include the SLA terms so your team can review them.

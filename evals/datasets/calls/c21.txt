@@ -1,0 +1,5 @@
+# team: uk_midmarket
+Customer: I can email you Brightwave's proposal if that helps you sharpen your offer.
+Rep: Please don't send me their proposal. Our policy is not to look at competitor quotes.
+Customer: Oh, OK.
+Rep: I'll put together our best offer based on your requirements instead.

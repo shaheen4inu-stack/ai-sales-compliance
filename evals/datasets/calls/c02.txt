@@ -1,0 +1,7 @@
+# team: uk_enterprise
+Customer: Our last provider had three outages this year. That can't happen again.
+Rep: I hear that a lot. With us you're on the Enterprise plan with a strong SLA.
+Customer: Strong how?
+Rep: Honestly, I can guarantee you'll never have downtime with us. It just doesn't happen.
+Customer: That's a bold statement.
+Rep: Our engineers are the best in the business. Let's get you a proposal.

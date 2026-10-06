@@ -1,0 +1,6 @@
+# team: uk_enterprise
+Customer: Your price is high for 500 users.
+Rep: I understand. We gave Halden Logistics 40% off their renewal last quarter, so there's room.
+Customer: Forty percent? That's a lot.
+Rep: I'd need deal desk approval for anything above 10%, but I'll push for it.
+Customer: Please do.

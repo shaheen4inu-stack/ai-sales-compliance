@@ -1,0 +1,6 @@
+# team: emea_partners
+Customer: Brightwave's website lists 30 dollars per user for their standard plan.
+Rep: That's their published price, yes. Our Standard plan is 25 USD per user per month.
+Customer: What's the difference in support?
+Rep: Standard includes business-hours support. If you need 24/7, that's Premium.
+Customer: Makes sense.

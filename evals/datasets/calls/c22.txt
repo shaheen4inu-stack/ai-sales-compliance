@@ -1,0 +1,6 @@
+# team: emea_partners
+Customer: Corvex's proposal has a big discount in it. Want to see it?
+Rep: No thanks, I shouldn't see their proposal.
+Customer: Sure.
+Rep: Although, if you could just tell me the discount percentage, that would really help me.
+Customer: Hmm, let me check what I'm allowed to share.

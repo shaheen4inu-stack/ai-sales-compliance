@@ -1,0 +1,301 @@
+{
+ "calls": [
+  {
+   "id": "c01",
+   "description": "Clean discovery call using only approved claims",
+   "expected": {
+    "findings": [],
+    "good_practice": []
+   },
+   "sensitive_figures": []
+  },
+  {
+   "id": "c02",
+   "description": "Absolute guarantee",
+   "expected": {
+    "findings": [
+     {
+      "type": "absolute_guarantee",
+      "turn": 4
+     }
+    ],
+    "good_practice": []
+   },
+   "sensitive_figures": []
+  },
+  {
+   "id": "c03",
+   "description": "Unapproved certification claim",
+   "expected": {
+    "findings": [
+     {
+      "type": "unapproved_claim",
+      "turn": 4
+     }
+    ],
+    "good_practice": []
+   },
+   "sensitive_figures": []
+  },
+  {
+   "id": "c04",
+   "description": "False statement about a competitor",
+   "expected": {
+    "findings": [
+     {
+      "type": "false_competitor_statement",
+      "turn": 4
+     }
+    ],
+    "good_practice": []
+   },
+   "sensitive_figures": []
+  },
+  {
+   "id": "c05",
+   "description": "Rep solicits a competitor's proposal",
+   "expected": {
+    "findings": [
+     {
+      "type": "solicited_competitor_pricing",
+      "turn": 2
+     }
+    ],
+    "good_practice": []
+   },
+   "sensitive_figures": []
+  },
+  {
+   "id": "c06",
+   "description": "Customer volunteers a confidential quote; rep declines",
+   "expected": {
+    "findings": [],
+    "good_practice": [
+     {
+      "type": "declined_competitor_information",
+      "turn": 2
+     }
+    ]
+   },
+   "sensitive_figures": [
+    "18 dollars",
+    "25%"
+   ]
+  },
+  {
+   "id": "c07",
+   "description": "Customer volunteers a quote; rep uses it",
+   "expected": {
+    "findings": [
+     {
+      "type": "used_volunteered_competitor_pricing",
+      "turn": 2
+     }
+    ],
+    "good_practice": []
+   },
+   "sensitive_figures": [
+    "18 dollars",
+    "18 a user",
+    "25%"
+   ]
+  },
+  {
+   "id": "c08",
+   "description": "Public list price reference only",
+   "expected": {
+    "findings": [],
+    "good_practice": []
+   },
+   "sensitive_figures": []
+  },
+  {
+   "id": "c09",
+   "description": "Rep discloses another customer's discount",
+   "expected": {
+    "findings": [
+     {
+      "type": "confidential_disclosure",
+      "turn": 2
+     }
+    ],
+    "good_practice": []
+   },
+   "sensitive_figures": [
+    "40%",
+    "Forty percent"
+   ]
+  },
+  {
+   "id": "c10",
+   "description": "Possible coordination with a competitor",
+   "expected": {
+    "findings": [
+     {
+      "type": "possible_coordination",
+      "turn": 2
+     }
+    ],
+    "good_practice": []
+   },
+   "sensitive_figures": [
+    "30 a seat"
+   ]
+  },
+  {
+   "id": "c11",
+   "description": "Misstated contract terms",
+   "expected": {
+    "findings": [
+     {
+      "type": "misstated_terms",
+      "turn": 2
+     }
+    ],
+    "good_practice": []
+   },
+   "sensitive_figures": []
+  },
+  {
+   "id": "c12",
+   "description": "Guarantee and solicitation in one call",
+   "expected": {
+    "findings": [
+     {
+      "type": "solicited_competitor_pricing",
+      "turn": 2
+     },
+     {
+      "type": "absolute_guarantee",
+      "turn": 4
+     }
+    ],
+    "good_practice": []
+   },
+   "sensitive_figures": []
+  },
+  {
+   "id": "c13",
+   "description": "Customer says competitor is cheaper, no figures; rep compares features",
+   "expected": {
+    "findings": [],
+    "good_practice": []
+   },
+   "sensitive_figures": []
+  },
+  {
+   "id": "c14",
+   "description": "Customer mentions a confidential quote; rep moves on without engaging",
+   "expected": {
+    "findings": [],
+    "good_practice": []
+   },
+   "sensitive_figures": [
+    "20 dollars"
+   ]
+  },
+  {
+   "id": "c15",
+   "description": "Approved SLA figure that must not be read as a guarantee",
+   "expected": {
+    "findings": [],
+    "good_practice": []
+   },
+   "sensitive_figures": []
+  },
+  {
+   "id": "c16",
+   "description": "Rep explicitly refuses to promise zero downtime",
+   "expected": {
+    "findings": [],
+    "good_practice": []
+   },
+   "sensitive_figures": []
+  },
+  {
+   "id": "c17",
+   "description": "Customer repeats a rumour; rep declines to comment",
+   "expected": {
+    "findings": [],
+    "good_practice": []
+   },
+   "sensitive_figures": []
+  },
+  {
+   "id": "c18",
+   "description": "Clearly framed personal opinion about a competitor",
+   "expected": {
+    "findings": [],
+    "good_practice": []
+   },
+   "sensitive_figures": []
+  },
+  {
+   "id": "c19",
+   "description": "Indirect solicitation",
+   "expected": {
+    "findings": [
+     {
+      "type": "solicited_competitor_pricing",
+      "turn": 2
+     }
+    ],
+    "good_practice": []
+   },
+   "sensitive_figures": []
+  },
+  {
+   "id": "c20",
+   "description": "Confidential disclosure and misstated support terms",
+   "expected": {
+    "findings": [
+     {
+      "type": "confidential_disclosure",
+      "turn": 2
+     },
+     {
+      "type": "misstated_terms",
+      "turn": 4
+     }
+    ],
+    "good_practice": []
+   },
+   "sensitive_figures": [
+    "12 dollars"
+   ]
+  },
+  {
+   "id": "c21",
+   "description": "Customer offers to email a competitor proposal; rep declines",
+   "expected": {
+    "findings": [],
+    "good_practice": [
+     {
+      "type": "declined_competitor_information",
+      "turn": 2
+     }
+    ]
+   },
+   "sensitive_figures": []
+  },
+  {
+   "id": "c22",
+   "description": "Rep declines, then later solicits",
+   "expected": {
+    "findings": [
+     {
+      "type": "solicited_competitor_pricing",
+      "turn": 4
+     }
+    ],
+    "good_practice": [
+     {
+      "type": "declined_competitor_information",
+      "turn": 2
+     }
+    ]
+   },
+   "sensitive_figures": []
+  }
+ ]
+}

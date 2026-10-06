@@ -1,0 +1,7 @@
+# team: uk_midmarket
+Customer: Corvex Data offered us 18 dollars per user with 25% off for three years.
+Rep: Thanks, but I'd rather you didn't share their proposal with me. Let me walk you through our pricing on its own merits.
+Customer: Fair enough.
+Rep: Premium is 40 USD per user per month and includes 24/7 support. There's a 30-day free trial.
+Customer: And the minimum term?
+Rep: Twelve months.

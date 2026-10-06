@@ -1,0 +1,7 @@
+# team: emea_partners
+Customer: I think Brightwave is cheaper.
+Rep: That may be. Happy to compare features side by side so you can judge value.
+Customer: Mostly I care about integrations.
+Rep: We integrate with the major CRM and ERP platforms. Which ones do you use?
+Customer: Mainly our ERP.
+Rep: That's covered. I'll send the integration list.

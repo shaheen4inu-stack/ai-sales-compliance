@@ -1,0 +1,7 @@
+# team: uk_midmarket
+Customer: We're also talking to Brightwave Systems.
+Rep: Sure. Have you looked at their track record on security?
+Customer: Not in detail yet.
+Rep: Brightwave lost a load of customer data last year and covered it up. Everyone in the industry knows.
+Customer: I hadn't heard that.
+Rep: Just something to keep in mind. Our security is SOC 2 Type II certified.

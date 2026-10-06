@@ -1,0 +1,7 @@
+# team: uk_enterprise
+Customer: We're comparing you with Corvex Data.
+Rep: Great. What did Corvex put in front of you? Ballpark is fine.
+Customer: I'd rather not say.
+Rep: Fair. What I can say is that with us your migration is guaranteed to finish in two weeks with zero disruption.
+Customer: Zero disruption?
+Rep: Zero. We'll put a plan together.

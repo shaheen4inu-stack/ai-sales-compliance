@@ -1,0 +1,5 @@
+# team: uk_enterprise
+Customer: What do you think of Brightwave's product?
+Rep: I personally find their interface a bit clunky, but you should try both and decide.
+Customer: We will.
+Rep: Great. Our 30-day free trial is a good way to compare.

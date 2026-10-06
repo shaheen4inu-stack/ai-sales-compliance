@@ -1,0 +1,6 @@
+# team: uk_enterprise
+Customer: What uptime can you commit to?
+Rep: On Enterprise we commit to a 99.9% uptime SLA, with service credits if we miss it.
+Customer: And on Premium?
+Rep: Premium doesn't carry a contractual SLA. If uptime commitments matter, Enterprise is the right plan.
+Customer: Understood.

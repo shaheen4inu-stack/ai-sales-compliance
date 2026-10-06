@@ -1,0 +1,6 @@
+# team: uk_enterprise
+Customer: What do other retailers pay?
+Rep: Ferris Retail pays 12 dollars a user after their discount.
+Customer: Interesting.
+Rep: And every plan, even Standard, gets 24/7 premium support at no extra cost.
+Customer: That's better than I expected.

@@ -1,0 +1,6 @@
+# team: uk_midmarket
+Customer: Corvex Data quoted 18 dollars a user and 25% off if we sign this month.
+Rep: 18 a user with 25% off. What else was in their offer? Send me the PDF and I'll go below it.
+Customer: It had onboarding included too.
+Rep: Then we'll include onboarding as well. Get me the document and I'll build the numbers tonight.
+Customer: OK, I'll see what I can do.

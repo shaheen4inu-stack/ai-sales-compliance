@@ -1,0 +1,7 @@
+# team: uk_enterprise
+Customer: Brightwave sent us their proposal last week. It's competitive.
+Rep: If you can forward me Brightwave's proposal, I'll make sure we beat it line by line.
+Customer: I'm not sure I'm allowed to share it.
+Rep: It stays between us. Even a screenshot of the pricing page of the proposal would do.
+Customer: Let me think about it.
+Rep: No problem. I'll send our Enterprise proposal today either way.

@@ -1,0 +1,29 @@
+# ============================================================
+# Sales policy for the fictional seller "Northstar Cloud".
+# Replace this file with the client's own policy. The model checks calls against it.
+# All companies here are invented.
+# ============================================================
+
+company: Northstar Cloud
+
+# Statements reps may make. Anything materially stronger or different is an unapproved claim.
+approved_claims:
+  - 99.9% uptime SLA on the Enterprise plan
+  - SOC 2 Type II certified
+  - 24/7 support on the Premium and Enterprise plans; business-hours support on Standard
+  - Customer data stored in the customer's chosen region (UK, EU or US)
+  - 30-day free trial on Standard and Premium
+  - Integrations with the major CRM and ERP platforms
+
+# Commercial terms reps must state accurately.
+terms:
+  - "List prices: Standard 25 USD per user per month, Premium 40 USD per user per month, Enterprise by quote"
+  - Minimum contract term is 12 months; no monthly cancellation
+  - Reps may discount up to 10% without approval; larger discounts need deal desk approval
+  - Other customers' prices, discounts and contract terms are confidential
+
+# Known competitors, so mentions are recognised. Their public list prices may be referenced;
+# their confidential quotes and proposals may not be requested, accepted or used.
+competitors:
+  - Brightwave Systems
+  - Corvex Data

@@ -1,0 +1,5 @@
+# team: emea_partners
+Customer: We heard Corvex Data had a breach recently.
+Rep: I can't comment on that. I'd check their published security reports.
+Customer: Fair. What about yours?
+Rep: We're SOC 2 Type II certified and I can share the report under NDA.

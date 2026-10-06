@@ -1,0 +1,7 @@
+# team: uk_midmarket
+Customer: We handle patient referrals for a few clinics, so compliance matters.
+Rep: Absolutely. We're SOC 2 Type II certified.
+Customer: Anything health-specific?
+Rep: Yes, we're fully HIPAA certified and ISO 27701 accredited, so you're covered for health data.
+Customer: That would help with our auditors.
+Rep: I'll send over a summary of our security documentation.

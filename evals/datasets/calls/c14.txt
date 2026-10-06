@@ -1,0 +1,6 @@
+# team: uk_midmarket
+Customer: Corvex offered us 20 dollars a user, by the way.
+Rep: OK. Let's focus on your requirements first. How many users need admin rights?
+Customer: About twenty.
+Rep: Then Premium fits. It's 40 USD per user per month with 24/7 support.
+Customer: Send me the details.
